@@ -71,7 +71,8 @@ This project analyzes an **E-Commerce Sales Dataset** to uncover revenue trends,
 
 ---
 
-**📢 Connect with Me:** [[https://n9.cl/n6a8r]]
+**📢 Connect with me:** [LinkedIn Profile](linkedin.com/in/katherine-ponce-6616441b3)  
+
 
 🚀 Hope you enjoy this project! Feel free to explore, comment, and share insights. Happy coding! 😊
 
